@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../CalculatorLibrary/CalculatorLibrary.csproj" Id="99e2bac5-a3f5-4139-b9db-9cea537bb758" />
   <Project Path="consoleCalculator.ProximaEx.csproj" />
 </Solution>
